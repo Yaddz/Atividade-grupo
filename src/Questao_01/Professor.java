@@ -1,3 +1,5 @@
+package Questao_01;
+
 public class Professor {
     private String nome;
     private String cpf;

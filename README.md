@@ -1,9 +1,9 @@
 # Lista de Exercícios
 
-### 1. Sistema de Contribuição do Sindicato dos Professores
+### 1. Sistema de Contribuição do Questao_01.Sindicato dos Professores
 - [x] **Questão Concluída** <!-- Troque para [] quando não concluída -->
 
-Um sindicato dos professores gerência uma contribuição física dos professores de uma cidade. Professor Cada possui:
+Um sindicato dos professores gerência uma contribuição física dos professores de uma cidade. Questao_01.Professor Cada possui:
 - **Nome**
 - **CPF**
 - **Titulação**: Doutor, Mestre, Especialista
