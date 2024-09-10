@@ -35,7 +35,7 @@ Cada aluno possui:
 ---
 
 ### 3. Classe Pessoa
-- [ ] **Questão Concluída**
+- [x] **Questão Concluída**
 
 Crie uma classe para representar uma pessoa com os segundos atributos privados:
 - **Nome**
@@ -45,6 +45,8 @@ Crie uma classe para representar uma pessoa com os segundos atributos privados:
 Implementar:
 - Métodos Públicos para **configuradores** e **getters**.
 - Um método para **imprimir** todos os dados de uma pessoa.
-- Um método que calcula a **ida** da pessoa com base na data de nascimento.
+- Um método que calcula a **idade** da pessoa com base na data de nascimento.
+
+> **Nota:** Verificar se está correto :)
 
 ---
