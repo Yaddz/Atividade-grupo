@@ -23,7 +23,7 @@ Ao final, o sistema deve:
 ---
 
 ### 2. Programa de Conceitos Finais de Alunos
-- [ ] **Questão Concluída**
+- [x] **Questão Concluída**
 
 Envolva um programa em Java que exiba os conceitos finais de todos de uma turma. O professor pode inserir os dados dos todos conforme desejar.  
 Utilize os conceitos de **encapsulamento** no desenvolvimento.
